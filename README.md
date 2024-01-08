@@ -10,7 +10,7 @@ I'm currently helping build Smartwatch by @cult.fit. When I find time, I contrib
 * Transformers by Hugging face: GPTing before it was cool  
 
 
-* Supervision: They are doing some cool stuff for the computer vision ecosystem.
+* Supervision: They are designing the efficient computer vision ecosystem.
 
 
 * Personal website: A small internet home I built
