@@ -2,7 +2,7 @@
 
 Glad you found your way here :) 
 
-I'm currently helping build Smartwatch by @cult.fit. When I find time, I contribute to open source, you'll find (cool?) stuff I helped build as my pinned repositories 
+I'm currently helping with Ads Trust @linkedin. When I find time, I contribute to open source, you'll find (cool?) stuff I helped build as my pinned repositories 
 
 * Distributed Opossum! : Few hours of unnecessary downtime at work led to an efficient production-ready library for implementing distributed circuit breakers in a microservices architecture
 
